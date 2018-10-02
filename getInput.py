@@ -48,7 +48,36 @@ def getNumber(prompt, minNumber, maxNumber):
 
 def isSwear(word):
     swearList = ["poop",
-                "piss"
+                "piss",
+                "nigger",
+                "fuck",
+                "fucking",
+                "cunt", 
+                "cuck",
+                "kike",
+                "dyke",
+                "shit",
+                "bitch",
+                "ass",
+                "fag",
+                "faggot",
+                "nigga",
+                "dick",
+                "drew",
+                "damn",
+                "bastard",
+                "motherfucker",
+                "asshole",
+                "cock",
+                "slut",
+                "pussy",
+                "chode",
+                "whore",
+                "dildo",
+                "queef",
+                "fucknugget",
+                "andrew",
+                "jewnigger",
                 ]
     if word in swearList:
         return True
