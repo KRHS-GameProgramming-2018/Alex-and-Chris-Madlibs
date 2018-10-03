@@ -9,8 +9,102 @@ def playMadlibs():
     output += "One day I was walking with my friend, " + friend1
     output += ". Suddenly " + friend1
     output += " said that they saw " + numAnimals + " " + animals1
+    output +=
+    output +=
+    output +=
+    output +=
+    output +=
+    output +=
+    output +=
+    output +=
+    output +=
+    output +=
+    
     
     
     
     
     return output
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
