@@ -12,7 +12,7 @@ def playMadlibs():
     output += "And I saw a huge " + adjective1
     output += "I started to run away but it " + verb1
     output += "after it was done it started to" + verb1
-    output += "the" + adjective1 "
+    output += "the" + adjective1
     
     
     
