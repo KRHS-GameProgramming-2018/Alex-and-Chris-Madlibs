@@ -24,7 +24,7 @@ def playMadlibs():
     output += "There were more of the " + adjective1
     output += "They were all over the place, it was so hard to escape one of them multiple would be impossible."
     output += "I ended up landing my " + airvehicle1 
-    output += "The army 
+    output += "The army went
     output += "
     output += "
    
