@@ -9,7 +9,7 @@ def playMadlibs():
     verb2 = getWord("Enter a action:")
     adjective2 = getWord("Enter a thing:")
     airvehicle1 = getword("Enter a air vehicle:")
-    
+    country1 = getWord("Enter a country:")
     
     
     
@@ -24,9 +24,11 @@ def playMadlibs():
     output += "There were more of the " + adjective1
     output += "They were all over the place, it was so hard to escape one of them multiple would be impossible."
     output += "I ended up landing my " + airvehicle1 
-    output += "The army went
-    output += "
-    output += "
+    output += "I don't know how but we ended up in " + country1                                       
+    output += "We fought for a while and it ended up in a "
+    
+    
+    
    
    
    
