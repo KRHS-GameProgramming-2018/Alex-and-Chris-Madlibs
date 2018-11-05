@@ -1,3 +1,4 @@
+#It's a start...
 from getInput import *
 
 def playMadlibs():
