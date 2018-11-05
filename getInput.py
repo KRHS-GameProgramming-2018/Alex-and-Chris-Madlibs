@@ -1,3 +1,4 @@
+#No extra getters
 def getMenuInput():
     goodInput = False
     while not goodInput:
