@@ -11,6 +11,7 @@ def showSplash():
     
     return output
     
+#should have actual story names
 def showMenu():
     output = ""
     output += "---------------------------------------\n"
